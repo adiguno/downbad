@@ -9,6 +9,7 @@
     - have you fixed this habit?                                    reformed    : bool
 
 ### Design Doc  
+- some data stuff
     1. Naive - SQL
         | name              | intent                           | timestamp     | reformed      | 
         |-------------------|----------------------------------|---------------|---------------|
